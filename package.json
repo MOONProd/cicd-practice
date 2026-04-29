@@ -1,0 +1,13 @@
+{
+  "name": "cicd-practice",
+  "version": "1.0.0",
+  "description": "Simple CI/CD practice with Docker and GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
